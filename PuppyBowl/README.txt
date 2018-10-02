@@ -8,4 +8,4 @@ http://www.animalplanet.com/tv-shows/puppy-bowl/photos/ix-starting-lineup-pictur
 
 Date accessed: September 18, 2018 --> downloaded HTML files
 
-October 2, 2018: Used XPath to extract the season lineups from X-XIV (2014-2018). Extracted data includes name of dog, team, breed, age, and location.
+October 2, 2018: Used XPath to extract the season lineups from X-XIV (2014-2018). Extracted data includes name of dog, team, breed, age, and location. This raw data can be found in X.txt - XIV.txt. A screenshot of the XPath query built to extract said data can be found in the "XPath_sample_image.png" file.
