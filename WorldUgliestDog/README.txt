@@ -6,4 +6,4 @@ Date accessed: September 16, 2018
 
 October 4, 2018: Textual information gathered from People added
 
-October 9, 2018: Data was evaluated and determined to be too similar for the purposes of this project. The majority of Ugliest Dog winners are the same breed.
+October 9, 2018: Data was evaluated and determined to be too similar for the purposes of this project. The majority of Ugliest Dog winners are the same breed. Data will no longer be used for this project.
