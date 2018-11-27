@@ -12,6 +12,7 @@ This dataset will likely require some of the most time intensive cleaning and cu
 A Python script was written grabbing the filepaths of each breed JSON file, and exported select information (file name, page id, page title, word count, and snippet) to a new Excel file. This file contains upwards of 15,000 total rows. As suggested by Elizabeth, a Keep column was added. As I go through each file name, I indicate by hand "t" for true or "f" for false. While some pages are obvious in respect to their inclusion, (i.e. the page "Pembroke Welsh Corgi" should be kept), others are harder to judge and may require actually looking up the page on Wikipedia to determine its status. Once completed, all of the "t"s will be filtered out and exported to a new file. This new file will be my official Wikipedia dataset. So far, I have spent upwards of 4 hours on this cleaning aspect. I expect to spend at least another 5+ hours to complete designating t/f for each entry.
 
 ## Authorship and Attribution
+Wikipedia JSON extraction code was written by and belongs to Elizabeth Wickes (Github: elliewix). The Wikimedia Foundation owns the wikipedia.org domain being utilzied for this project, however it us unclear who owns individual Wikipedia pages and their respective contents.
 
 ## Semantic Contents
 
