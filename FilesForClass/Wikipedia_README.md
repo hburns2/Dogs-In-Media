@@ -4,7 +4,9 @@
 
 **October 24, 2018:** Compiled a list of dogs to search based on combined dog data (AKC, PuppyBowl, Westminster, and KnowYourMemes). Began to run those dog breeds through provided code and compiled results. Results from this can be found under Results folder.
 
-**October 30, 2018:** Began pulling data from JSON files using Python and exporting Page Titles, Page IDs, and Word Counts to .csv files.
+**October 30, 2018:** Began pulling data from JSON files using Python and exporting Page Titles, Page IDs, and Word Counts to .csv files. This marks the beginning of tagging each page as t/f (further explained in the next section)
+
+**December 5, 2018:** Due to nearing deadline, ended the tagging process having only marked approximately 7000 values out of 15000 as t/f
 
 ## Data cleaning assessment
 This dataset will likely require some of the most time intensive cleaning and curation. The alphabetized files from other datasets were then run and the counts for each dog breed mentioned was determined. This data was then input into a master file, combining the breeds (in ranked order) from AKC, with columns denoting PuppyBowl, Westminster, and Memes. The rows were filled with how many times each breed was mentioned in each dataset. For example, the Boxer, ranked 11th on AKC popularity, occurred 4 times in the last 5 years of the PuppyBowl, 4 times in Westminster Dog Show, and 1 time in KnowYourMeme. Dogs that possessed data in two or more categories were flagged. Those flagged breeds were then ran through code, received from Elizabeth Wickes, pertaining to the Wikipedia API. This code specifically pulls the namespace, page id, page title, page size, word count, a snippet, and timestamp of last edit and creates a combined JSON file. These 24 breed names then output 24 JSON files of various size.
