@@ -1,0 +1,25 @@
+Ranked Number (AKC),Breed Name,Breed Class (AKC),PuppyBowl_Number Contestants (Last 5 Years),Westminster (all time),KnowYourMeme,Wiki_Path,Wiki_Num_Page,Wiki_Wordcount
+1,Retriever (Labrador),Sporting,11,0,1,labresults.json,10,8834
+2,German Shepherd Dogs,Herding/Guardian,4,2,0,germanshepresults.json,15,16449
+3,Retrievers (Golden),Sporting,1,0,2,goldenretresults.json,17,22060
+5,Bulldogs,Non-sporting,2,2,0,bulldogresults.json,6,5067
+6,Beagles,Hound,3,2,0,beagleresults.json,19,48701
+7,Poodles,Standard/Miniature/Toy,5,9,0,poodleresults.json,8,13167
+9,Yorkshire Terriers,Toy,3,1,0,yorkshireterrierresults.json,1,5480
+11,Boxers,Working,4,4,1,boxerresults.json,2,5079
+12,Siberian Huskies,Working,1,1,0,sibhuskresults.json,3,4782
+15,Pembroke Welsh Corgis,Herding,3,0,0,corgiresults.json,6,9678
+16,Doberman Pinschers,Working,1,4,0,dobermanresults.json,4,3491
+17,Australian Shepherds,Herding,6,0,1,aussieresults.json,3,8126
+20,Shih Tzu,Toy,7,0,0,shihresults.json,5,8981
+22,Pomeranians,Toy,4,1,0,pomeranianresults.json,2,3287
+27,Spaniels (English Springer),Sporting,1,6,0,englishspringerresults.json,4,4421
+29,Spaniels (Cocker),Sporting,3,4,0,cockerspanielresults.json,3,4115
+31,Pugs,Toy,3,1,0,pugresults.json,6,6772
+32,Chihuahuas,Toy,8,0,1,chihuahuaresults.json,12,11562
+45,Shiba Inu,Non-sporting,1,0,3,shibaresults.json,5,9271
+46,Bichons Frises,Non-sporting,0,2,1,bichonresults.json,2,3627
+53,Papillons,Toy,1,1,0,papillonresults.json,1,1632
+88,Pekingese,Toy,1,4,0,pekingeseresults.json,3,3442
+94,Brussels Griffons,Toy,2,0,0,brusselsresults.json,1,997
+99,Fox Terriers (Wire),Terrier,2,14,0,wirefoxresults.json,1,1961
