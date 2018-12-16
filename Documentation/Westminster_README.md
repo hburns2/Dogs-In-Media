@@ -25,4 +25,8 @@ The actually collection of this data was incredibly simple. It already existed i
 The data is stored in an Excel file. The cleaned file only includes one column (dog breed) and 112 rows. The column is the names of each dog breed and each row reflects a winning dog. The information in this column is textual and is being treated as categorical.
 
 ## Other
-There is a single column in the cleaned version of this dataset. This column contains 112 rows. This singular column contains the breed of the dog that won the Westminster Dog Show from 1907 until 2017 (the 2018 awards had not yet taken place when the data was extracted). There are missing values in this dataset. While there are unique values (i.e. a dog breed only being represented once in this dataset), they will not be listed here since the dataset is comprised of over 100 rows.
+There is a single column in the cleaned version of this dataset. This column contains 112 rows. This singular column contains the breed of the dog that won the Westminster Dog Show from 1907 until 2017 (the 2018 awards had not yet taken place when the data was extracted). 
+
+There are missing values in this dataset. For example, there is no data present for the year 1923. It is reasonable to assume that the award Best in Show was not bestowed upon any dog that year or the Westminster Dog Show did not occur.
+
+While there are unique values (i.e. a dog breed only being represented once in this dataset), they will not be listed here since the dataset is comprised of over 100 rows.
