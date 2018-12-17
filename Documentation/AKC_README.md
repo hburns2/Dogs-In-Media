@@ -20,6 +20,4 @@ The cleaned version of this datafile consists of 6 columns. The first is the bre
 The collection of this data was incredibly simple. As it existed online already in a tabular format, all I needed to do was copy and paste from the website directly into Excel.
 
 ## Data Structure
-This data is saved in an Excel file. It is 2 columns across and 191 rows long. Only the data from 2017 is being used for my final dataset.
-
-## Other
+This data is saved in an Excel file. It is 6 columns across and 191 rows long. Only the data from 2017 (along with breed names) is being used for my final dataset. The column with breed names is textual while the column representing 2017 is numerical. All value pairs represented in this dataset are unique and none are missing.
