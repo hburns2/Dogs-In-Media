@@ -36,6 +36,9 @@ There are 2 loose files in this repo:
 ## HeroDogs
 **This dataset is no longer in use**
 
+## KnowYourMeme
+* Contains hand-compiled cleaned dataset
+
 ## PetFinder
 **This dataset is no longer in use**
 
