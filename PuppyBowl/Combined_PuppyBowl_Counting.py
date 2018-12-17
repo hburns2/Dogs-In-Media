@@ -12,3 +12,6 @@ for line in words_list:
         word_counts[word] = word_counts.get(word, 0) + 1
 
 print(word_counts)
+
+
+# A similar process can be used to extract/tally the breeds for Westminster and KnowYourMeme. This has not yet been automated and will be part of a future iteration of this project.
