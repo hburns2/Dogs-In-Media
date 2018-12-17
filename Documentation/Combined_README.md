@@ -33,3 +33,5 @@ Description of columns:
 * **Wiki_Wordcounts** - The sum of the number of words of Wikipedia articles associated with each selected AKC breed name.
 
 While there are no missing values, there are times where the value entered in PuppyBowl, Westminster, and KnowYourMeme will be zero. This zero value indicates that the breed was not present in the individual dataset.
+
+It is important to note that the talleying seen for PuppyBowl, Westminster, and KnowYourMeme was done, at the time of this project, by hand. Code was developed to extract this data from the Excel files but the process was never automated for this assignment. An example of that code can be found in hburns2/Dogs-In-Media/PuppyBowl.
