@@ -21,15 +21,15 @@ This data is stored in a .csv file. The file contains 9 columns reflecting:
 * The sum of the number of words of Wikipedia articles associated with each breed name (numerical)
 
 ## Other
-**NEED TO ADD COLUMN NAMES WITH ASSOCIATED INFORMATION**
-Description of column (a short human readable statement of what this column contains).
+Description of columns:
+* Ranked Number (AKC) - This is the numerical ranking (from 2017) associated with each dog breed. Each value will be unique as they represent the ranked standing of each individual breed.
+* Breed Name - This column gets its values from AKC and contains the names of 24 selected dog breeds. Each value in this column will be a unique breed name.
+* Breed Class (AKC) - As defined by the AKC (and manually compiled), this column notes the breed classification for each selected dog breed. Examples of breed classification are Sporting, Toy, Herding, Working, etc. Each classification gives supplement information about each breed. For instance, Working dogs are, as the name states, bred to work. They are known for being larger, intelligent, and alert dogs with tendencies toward protectiveness. Working dogs are typically guard dogs or frequently involved in rescue operations.
+* PuppyBowl_Number Contestants (Last 5 Years) - This column contains numerical values noting the number of times each of the selected dog breeds was featured in the Puppy Bowl's starting lineup over the last 5 years
+* Westminster (all time) - This column contains numerical values noting the number of times each of the selected dog breeds won Westminster Dog Show's Best in Show
+* KnowYourMeme - This column contains numerical values noting the number of times each of the selected dog breeds is mentioned as having a meme derrived from them
+* Wiki_Path - The unique JSON pathway associated with each selected breed name. This JSON filepath was created locally.
+* Wiki_Num_Page - The number of Wikipedia articles associated with each selected AKC breed name
+* Wikie_Wordcounts - The sum of the number of words of Wikipedia articles associated with each selected AKC breed name.
 
-Description of data values and units present
-
-Reason for missing values and the relevant missing values or codes
-
-Number of known missing values within this column
-
-What are all the unique values and their meaning? (if you have categorical data).  Don’t do this if there are more than like 10 or 20.
-
-Other notes, caveats, attribution, etc. that you need to report for this data file.
+While there are no missing values, there are times where the value entered in PuppyBowl, Westminster, and KnowYourMeme will be zero. This zero value indicates that the breed was not present in the individual dataset.
