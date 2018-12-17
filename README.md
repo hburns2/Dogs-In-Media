@@ -1,15 +1,16 @@
-# Manifest File for this Repo: Does media representation of dogs correlate with American Kennel Club popularity?
+# Manifest File:
 
-There are 3 loose files in this repo:
-* the original README
+**Question: Does media representation of dogs correlate with American Kennel Club popularity?**
+
+There are 2 loose files in this repo:
 * my reproducing Jupyter notebook
-* this manifest file.
+* this manifest file
 
 ## AKC
 * Contains raw and clean dataset files
 
 ## Additional_Documents-Final
-* Resume
+* Updated resume/CV
 * Summary slide
 
 ## CombingData
@@ -45,8 +46,15 @@ There are 3 loose files in this repo:
 * Combined PuppyBowl data file
 
 ## Westminster
+* Raw dataset
+* Cleaned dataset
 
 ## Wikipedia
+* Elizabeth's API code
+* The list of 24 filtered dogs that I searched
+* A .py file I created for combining all of the resulting JSON files
+* My final Wikipedia dataset (labeled "allresults_nov7.csv")
+* A folder containing all 24 JSON files from the filtered dog list
 
 ## World's Ugliest Dog
 **This dataset is no longer in use**
