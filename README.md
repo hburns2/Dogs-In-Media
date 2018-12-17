@@ -44,6 +44,7 @@ There are 2 loose files in this repo:
 * Raw dataset folder: the .txt files that containt text copy/pasted from the XPath Helper results
 * Image of the XPath code I used to extract data
 * Combined PuppyBowl data file
+* .py file with code used to tally how many times each breed was mentioned in the combined data file
 
 ## Westminster
 * Raw dataset
