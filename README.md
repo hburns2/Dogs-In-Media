@@ -7,7 +7,7 @@ There are 2 loose files in this repo:
 * this manifest file
 
 ## AKC
-* Contains raw and clean dataset files
+* Contains clean dataset file
 
 ## Additional_Documents-Final
 * Updated resume/CV
